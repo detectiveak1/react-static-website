@@ -1,7 +1,7 @@
 export default function Navbar(){
     <>
         <header>
-            <nav>
+            <nav className = "navbar">
                 <p>OlympusMaster</p>
             </nav>
         </header>
